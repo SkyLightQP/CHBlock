@@ -9,3 +9,6 @@ AGPL 라이센스를 따르며 상업적, 영리적으로 이용이 불가능합
 
 # 참고
 Spigot 1.10.2, CommandHelper 3.3.2으로 만들어졌습니다.
+
+# 다운로드
+https://github.com/SkyLightQP/CHBlock/releases
